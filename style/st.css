@@ -1,0 +1,51 @@
+header{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: #ffA07A;
+    font-size: xx-large;
+}
+svg {
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    float: left;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    width: 175px;
+    height: 175px;
+}
+
+.number{
+    text-align: center;
+    font-size: small;
+}
+
+h2{
+    color: #ffA07A;
+    font-size: small;
+
+}
+.lio{
+    text-align: left;
+    left: 130px;
+    top: 10px;
+    position: relative;
+
+}
+.net{
+    height: 8px;
+    width: 179px;
+    background-color: #454545;
+    position: relative;
+    left: 176px;
+}
+p{
+    font-size: small;
+}   
